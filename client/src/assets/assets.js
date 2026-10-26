@@ -41,7 +41,7 @@ import car_image2 from "./car_image2.png"
 import car_image3 from "./car_image3.png"
 import car_image4 from "./car_image4.png"
 
-export const cityList = ['Kingston', 'Portmore', 'St. Catherine', 'Old Harbour']
+export const cityList = ['Kingston', 'Portmore', 'Spanish Town', 'Old Harbour']
 
 export const assets = {
     logo,
@@ -103,7 +103,7 @@ export const ownerMenuLinks = [
 
 export const dummyUserData = {
   "_id": "6847f7cab3d8daecdb517095",
-  "name": "GreatStack",
+  "name": "ClutchMils",
   "email": "admin@example.com",
   "role": "owner",
   "image": user_profile,
